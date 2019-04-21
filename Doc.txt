@@ -1,0 +1,11 @@
+Room No		Dr Name			Specialities		Contact
+114		Anil Kumar Singh	Heart and Lungs		9925254136
+235		Sushant Dev 		Cardiology		9975846335
+551		Debashish Jain		Neurology		8745123645
+334		Ankush roy		Orthopaedics		6355412451
+102		Nilesh Singh		Pshychology		7984512635
+325		Nishant Chandel		Radiology		9685471542
+228		Gauri Patil		Skin and Hair		7845856974
+142		Abbas Naqvi		Urology			7695844315
+624		Anand Saxena		Gyneclogy		9955663311
+394		Suman Nag		Dermatology		8855447744
